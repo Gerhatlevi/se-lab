@@ -37,11 +37,7 @@ public class GT4500 implements SpaceShip {
   public boolean fireTorpedo(FiringMode firingMode) {
 
     boolean firingSuccess = true;
-<<<<<<< HEAD
     int lol = 1;
-=======
-    int lol = 1;
->>>>>>> branch-B
 
     switch (firingMode) {
       case SINGLE:
